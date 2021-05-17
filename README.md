@@ -26,12 +26,19 @@ If your python interpreter is 'python3', rename 'python' with 'python3' in ```st
 #### For windows users
 
 ```bash
-start.bat
+setup.bat
 ```
 
 #### For Linux/Mac users
 
+Set the permissions: This is required only one time
+
 ```bash
-chmod 777 start.sh
-./start.sh
+chmod 777 setup.sh
+```
+
+Run the Setup
+
+```bash
+./setup.sh
 ```
