@@ -9,7 +9,7 @@
 ### Clone this repo
 
 ```bash
-git clone https://github.com/sravanrekandar/python-app-starter-kit.git && cd python-app-starter-kit
+git clone https://github.com/sravanrekandar/python-app-starter-kit.git my_app && cd my_app
 ```
 
 ### Remove git history
